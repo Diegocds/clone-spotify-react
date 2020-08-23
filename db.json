@@ -1,0 +1,30 @@
+{
+	"home": [
+		{
+			"title": "Shortcuts",
+			"items": [
+				{
+					"img": "https://pbs.twimg.com/profile_images/1147135430997008386/noRTjiQ0.png",
+					"title": "Sua alegria foi",
+					"desc": "Fresno"
+				}
+			]
+		},
+		{
+			"title": "Recently played",
+			"items": []
+		},
+		{
+			"title": "Chill",
+			"items": []
+		},
+		{
+			"title": "Your favotites albums and songs",
+			"items": []
+		},
+		{
+			"title": "Mae for Diego Carlos",
+			"items": []
+		}
+	]
+}
